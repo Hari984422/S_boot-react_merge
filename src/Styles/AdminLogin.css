@@ -1,0 +1,15 @@
+.AdminLogin form{
+    box-shadow: 0px 0px 10px black;
+    border-radius: 30px;
+    padding: 20px 50px;
+    height: 140px;
+    width: 400px;
+    display: grid;
+    grid-template-columns: 140px 200px;
+}
+.AdminLogin{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
